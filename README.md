@@ -1,4 +1,4 @@
-# Deep branching solver
+# Coding tree solver
 Authors: Jiang Yu Nguwi and Nicolas Privault.
 
 If this code is used for research purposes, please cite as \
@@ -7,7 +7,7 @@ A fully nonlinear Feynman-Kac formula with derivatives of arbitrary orders.
 <br/><br/>
 
 ## Quick Start
-Deep branching solver aims to solve system of fully nonlinear PDE system.
+Coding tree solver aims to solve system of fully nonlinear PDE system.
 Click one of the following links for quick start.
 
 * <a href="https://colab.research.google.com/github/nguwijy/coding_trees/blob/master/main.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
